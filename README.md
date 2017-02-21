@@ -1,6 +1,6 @@
 # WorkerPlacement_ExperimentalGameplay-3
 
-Goal - Make a game demo inspired by Worker Placement games (usually are board games).
+Goal - Make a game demo inspired by Worker Placement game mechanic.
 
 I researched some of these games and felt that they do not vary much from each other, then I decided to make a worker placement game do not share some common features:
   1. No turn-based;
@@ -16,7 +16,8 @@ Gameplay - Place workers on the assembly line and create as many final products 
   5. Don't use the + - buttons and input field. They are for testing.
 
 What I have learned -
-  This demo reveals some criticism of the dehumanization on the assembly line after I made it. It needs some add-on to push it further.
+  1. At first, the game I made is to have a bunch of workers wait to be assigned, and the player have to use the +/- button or enter a number into the input field to allocate them. But it looks so boring. Then I add worker characters and controls for them, then it looks much more vivid and turns out more like a game. I think vividness is important for a game.
+  2. This demo reveals some criticism of the dehumanization on the assembly line. But it needs some design to push it further, which I am still thinking about.
 
 Acknowledgement -
   Pixel Worker Art Assets - http://www.pocketgamer.co.uk/r/iPad/Pixel+People/feature.asp?c=48258  
